@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="card_image_height">128dp</dimen>
+    <dimen name="card_text_vertical_space">4dp</dimen>
+    <dimen name="image_detail">150dp</dimen>
+    <dimen name="loading_screen">200dp</dimen>
+    <dimen name="padding_0dp">0dp</dimen>
+    <dimen name="padding_detail_content_horizontal">40dp</dimen>
+    <dimen name="padding_detail_content_vertical">24dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_vertical">24dp</dimen>
+    <dimen name="padding_very_small">4dp</dimen>
+    <string name="app_name">Bookshelf</string>
+    <string name="books_photo">Books photo</string>
+    <string name="loading">Loading</string>
+    <string name="loading_failed">Failed to load</string>
+    <string name="placeholder_result">Placeholder result text</string>
+    <string name="retry">Retry</string>
+    <style name="Theme.Bookshelf" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
